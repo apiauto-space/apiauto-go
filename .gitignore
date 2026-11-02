@@ -1,0 +1,16 @@
+# Build output
+*.exe
+*.test
+*.out
+
+# Environments
+.env
+.env.*
+.envrc
+*.db-journal
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

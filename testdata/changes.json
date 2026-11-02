@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": 3041692,
+      "car_id": "che168:60161758",
+      "market": "cn",
+      "type": "price_drop",
+      "at": "2026-11-02T08:16:18.308576Z",
+      "old_price": "26000.00",
+      "new_price": "23000.00",
+      "pct": "11.538"
+    },
+    {
+      "id": 3041694,
+      "car_id": "che168:56151114",
+      "market": "cn",
+      "type": "price_drop",
+      "at": "2026-11-02T08:16:18.309193Z",
+      "old_price": "368000.00",
+      "new_price": "323000.00",
+      "pct": "12.228"
+    },
+    {
+      "id": 3041699,
+      "car_id": "che168:60375550",
+      "market": "cn",
+      "type": "price_drop",
+      "at": "2026-11-02T08:16:18.309950Z",
+      "old_price": "119800.00",
+      "new_price": "109800.00",
+      "pct": "8.347"
+    },
+    {
+      "id": 3041701,
+      "car_id": "che168:60207598",
+      "market": "cn",
+      "type": "price_drop",
+      "at": "2026-11-02T08:16:18.310870Z",
+      "old_price": "17900.00",
+      "new_price": "16500.00",
+      "pct": "7.821"
+    },
+    {
+      "id": 3041710,
+      "car_id": "che168:60361025",
+      "market": "cn",
+      "type": "price_drop",
+      "at": "2026-11-02T08:16:18.314170Z",
+      "old_price": "105800.00",
+      "new_price": "99900.00",
+      "pct": "5.577"
+    }
+  ],
+  "next_cursor": "eyJpZCI6MzA0MTcxMH0"
+}

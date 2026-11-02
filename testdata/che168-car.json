@@ -1,0 +1,73 @@
+{
+  "id": "che168:60385167",
+  "market": "cn",
+  "source": "che168",
+  "source_id": "60385167",
+  "title": "2025 BYD Song Pro New Energy",
+  "brand": "BYD",
+  "model": "Song Pro",
+  "generation": null,
+  "trim": "Song Pro New Energy 2025 Second Generation Smart Driving Version Dm-I 75km Leading Model",
+  "year": 2025,
+  "mileage_km": 10000,
+  "fuel": "plug_in_hybrid",
+  "transmission": "automatic",
+  "engine_cc": 1498,
+  "body_type": "suv",
+  "color": "Silver",
+  "vin": null,
+  "price": {
+    "amount": "79000.00",
+    "currency": "CNY"
+  },
+  "price_usd": "11874.55",
+  "location": {
+    "country": "CN",
+    "region": null,
+    "city": "Meizhou"
+  },
+  "photos": [
+    "https://api.apiauto.space/img/che168:60385167/1.jpg?exp=…&sig=…",
+    "https://api.apiauto.space/img/che168:60385167/2.jpg?exp=…&sig=…",
+    "https://api.apiauto.space/img/che168:60385167/3.jpg?exp=…&sig=…",
+    "https://api.apiauto.space/img/che168:60385167/4.jpg?exp=…&sig=…",
+    "https://api.apiauto.space/img/che168:60385167/5.jpg?exp=…&sig=…",
+    "https://api.apiauto.space/img/che168:60385167/6.jpg?exp=…&sig=…"
+  ],
+  "photo_count": 24,
+  "listing_url": "https://www.che168.com/dealer/559088/60385167.html",
+  "is_active": true,
+  "first_seen_at": "2026-11-02T10:44:00.453025Z",
+  "last_seen_at": "2026-11-02T10:44:00.453025Z",
+  "disappeared_at": null,
+  "updated_at": "2026-11-02T10:44:00.453025Z",
+  "raw": {
+    "fx": {
+      "date": "2026-10-30",
+      "source": "ECB",
+      "currency": "CNY",
+      "usd_per_unit": "0.150310793"
+    },
+    "drive": "fwd",
+    "seats": null,
+    "imported": false,
+    "power_hp": 101,
+    "power_kw": 74,
+    "dealer_id": "559088",
+    "image_count": 24,
+    "car_price_rub": 954896.0,
+    "che168_infoid": "60385167",
+    "source_values": {
+      "city": "梅州 (Meizhou)",
+      "fuel": "Plug-in Hybrid",
+      "brand": "BYD",
+      "drive": "Front Wheel Drive",
+      "model": "Song Pro New Energy",
+      "body_type": "SUV",
+      "transmission": "Automatic"
+    },
+    "source_adapter": "union",
+    "first_registration": "2025-09-19"
+  },
+  "source_mode": "replica"
+}
