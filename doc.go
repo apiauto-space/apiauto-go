@@ -13,6 +13,6 @@
 // Failed requests return an [*Error]; test it with [errors.Is] against [ErrNotFound],
 // [ErrQuotaExceeded] and the other sentinels, or read its fields with [errors.As].
 //
-// The client is safe for concurrent use. It is unofficial: the project is not affiliated with
-// Encar, Che168/Autohome, Copart or IAAI.
+// The client is safe for concurrent use. It is the official client from the apiauto.space team;
+// the project is not affiliated with Encar, Che168/Autohome, Copart or IAAI.
 package apiauto
